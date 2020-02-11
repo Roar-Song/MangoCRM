@@ -3,7 +3,11 @@
 (미완성)
 
 ## Preview
-
+![사원 목록](https://user-images.githubusercontent.com/57061848/74223838-ea05b900-4cfa-11ea-8be1-15b2c19dc1e8.png)
+![사원 등록](https://user-images.githubusercontent.com/57061848/74223842-ec681300-4cfa-11ea-9f97-9f2e0dbaeab7.png)
+![고객사 정보-1](https://user-images.githubusercontent.com/57061848/74223845-eeca6d00-4cfa-11ea-9a57-5aa8f79ea61f.png)
+![고객사 정보-2](https://user-images.githubusercontent.com/57061848/74223849-effb9a00-4cfa-11ea-86de-e2568c2067aa.png)
+![고객사 정보 -3](https://user-images.githubusercontent.com/57061848/74223856-f2f68a80-4cfa-11ea-8d14-f5619ec2b432.png)
 
 ## Contributors
 - 송혜호(Roar-Song) : 사원 등록/편집/상세보기/목록 페이지, 고객사 등록/편집/상세보기/목록 페이지 개발, 공용 디자인 템플릿 개발
