@@ -1,8 +1,12 @@
 # MangoCRM
-교육 과정중 18명의 수강생분들과 함께 만든 대규모 프로젝트입니다. CRM(Customer Relationship Management)이 갖춰야할 기본적인 요소를 갖추고있습니다.
-(미완성)
+교육 과정중 18명의 수강생분들과 함께 만든 대규모 프로젝트입니다. CRM(Customer Relationship Management)이 갖춰야할 기본적인 요소를 갖추고있습니다.(미완성)
 
 ## Preview
+![사원목록](https://user-images.githubusercontent.com/57061848/74391203-df583a80-4e46-11ea-8212-c23108c8a9af.PNG)
+![사원등록](https://user-images.githubusercontent.com/57061848/74391214-e1ba9480-4e46-11ea-91ab-0fda7def0ea0.PNG)
+![고객사 상세보기1](https://user-images.githubusercontent.com/57061848/74391212-e121fe00-4e46-11ea-90bb-bbe27fade60e.PNG)
+![고객사 상세보기2](https://user-images.githubusercontent.com/57061848/74391210-e121fe00-4e46-11ea-9dcf-a62af198d949.PNG)
+![고객사 상세보기3](https://user-images.githubusercontent.com/57061848/74391208-e0896780-4e46-11ea-985c-b6d97c5f988f.PNG)
 
 
 ## Contributors
